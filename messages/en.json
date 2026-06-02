@@ -94,6 +94,7 @@
   },
   "PromoBanner": {
     "text": "🈹\uFE0F 30% OFF CAMPAIGN【PBTOPEN30】(until 5/31)",
+    "textJune": "🈹️ 30% OFF CAMPAIGN【CAMPFIRE30】(until 6/30)",
     "ariaLabel": "30% off court campaign. Go to reservation page"
   },
   "HomeHero": {
@@ -210,7 +211,6 @@
     "title": "PRICING",
     "courtRental": "COURT RENTAL",
     "perHour": "Price per hour",
-    "promoText": "OPEN celebration pricing until May 31 🈹\uFE0F☝️👽",
     "timeSlot": "Time Slot",
     "weekday": "Weekday",
     "weekend": "Weekend / Holiday",
@@ -248,7 +248,7 @@
     "mapTitle": "THE PICKLE BANG THEORY Location",
     "companyName": "THE PICKLE BANG THEORY",
     "postalCode": "〒272-0021",
-    "address": "2-16-6 6F, Yawata, Ichikawa City, Chiba",
+    "address": "2-16-6 Yawata Hata Bldg. 6F, Yawata, Ichikawa City, Chiba",
     "hours": "Hours: 6:00 AM – 11:00 PM (Irregular holidays)",
     "routes": {
       "jr": {
@@ -272,7 +272,7 @@
   "HomeFooter": {
     "copyright": "© 2026 RST Agency Inc.",
     "tokushoho": "Specified Commercial Transactions Act",
-    "address": "2-16-6 6F, Yawata, Ichikawa City, Chiba 272-0021",
+    "address": "2-16-6 Yawata Hata Bldg. 6F, Yawata, Ichikawa City, Chiba 272-0021",
     "brandJa": "THE PICKLE BANG THEORY ／ ザ ピックルバン セオリー",
     "newsletter": {
       "heading": "Newsletter",
@@ -421,7 +421,7 @@
       "instagram": "Instagram",
       "address": "Address",
       "hours": "Hours",
-      "addressValue": "2-16-6 6F, Yawata, Ichikawa City, Chiba",
+      "addressValue": "2-16-6 Yawata Hata Bldg. 6F, Yawata, Ichikawa City, Chiba",
       "hoursValue": "6:00 – 23:00"
     }
   },
@@ -466,7 +466,7 @@
   "CrowdfundingPopup": {
     "headline": "Crowdfunding Now Live!",
     "subheadline": "We're looking for people to help us grow and rally behind PBT",
-    "bonus": "100% goal reached → 30% OFF extended through June 🔥",
+    "bonus": "30% OFF in June 🔥 plus extra discounts!",
     "cta": "Support on CAMP-FIRE",
     "ctaAriaLabel": "Open CAMP-FIRE crowdfunding page (new tab)",
     "close": "Close",

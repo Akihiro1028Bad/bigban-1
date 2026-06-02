@@ -105,6 +105,7 @@
   },
   "PromoBanner": {
     "text": "🈹\uFE0F コート30%OFFキャンペーン中【PBTOPEN30】(5/31ﾏﾃﾞ)",
+    "textJune": "🈹️ コート30%OFFキャンペーン中【CAMPFIRE30】(6/30ﾏﾃﾞ)",
     "ariaLabel": "コート30%OFFキャンペーン。予約ページへ移動します"
   },
   "HomeHero": {
@@ -221,7 +222,6 @@
     "title": "PRICING",
     "courtRental": "COURT RENTAL",
     "perHour": "1時間あたりの料金",
-    "promoText": "5月31日までのOPEN記念価格🈹\uFE0F☝️👽",
     "timeSlot": "時間帯",
     "weekday": "平日",
     "weekend": "週末・祝日",
@@ -259,7 +259,7 @@
     "mapTitle": "THE PICKLE BANG THEORY 所在地",
     "companyName": "THE PICKLE BANG THEORY",
     "postalCode": "〒272-0021",
-    "address": "千葉県市川市八幡2-16-6 6階",
+    "address": "千葉県市川市八幡2-16-6 八幡ハタビル 6階",
     "hours": "営業時間：6:00 – 23:00（不定休）",
     "routes": {
       "jr": {
@@ -283,7 +283,7 @@
   "HomeFooter": {
     "copyright": "© 2026 RST Agency Inc.",
     "tokushoho": "特定商取引法に基づく表記",
-    "address": "〒272-0021 千葉県市川市八幡2-16-6 6階",
+    "address": "〒272-0021 千葉県市川市八幡2-16-6 八幡ハタビル 6階",
     "brandJa": "THE PICKLE BANG THEORY ／ ザ ピックルバン セオリー",
     "newsletter": {
       "heading": "Newsletter",
@@ -432,7 +432,7 @@
       "instagram": "Instagram",
       "address": "Address",
       "hours": "Hours",
-      "addressValue": "千葉県市川市八幡2-16-6 6階",
+      "addressValue": "千葉県市川市八幡2-16-6 八幡ハタビル 6階",
       "hoursValue": "6:00 – 23:00"
     }
   },
@@ -477,7 +477,7 @@
   "CrowdfundingPopup": {
     "headline": "クラファン実施中！",
     "subheadline": "PBTを一緒に育て上げてくれる方、盛り上げてくれる方を募集します",
-    "bonus": "目標金額100%達成で6月も30%OFF🔥",
+    "bonus": "6月も30%OFF🔥さらに割引も！",
     "cta": "CAMP-FIREで支援する",
     "ctaAriaLabel": "CAMP-FIREのクラウドファンディングページを開く（新しいタブ）",
     "close": "閉じる",
